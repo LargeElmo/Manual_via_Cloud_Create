@@ -4,3 +4,6 @@ print("This file is the first one in a repository that was created on GitHub and
 
 print("First training with this particular method.")
 
+print("Modification one to this training file.")
+
+
